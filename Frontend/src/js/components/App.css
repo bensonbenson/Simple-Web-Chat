@@ -1,0 +1,15 @@
+.red {
+    color: red;
+}
+.brown {
+  color: brown;
+}
+
+
+.chat-box {
+    display: flex;
+    flex-direction: column;
+}
+.chat-item {
+    border-bottom: 1px solid gray;
+}
